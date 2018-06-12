@@ -170,7 +170,7 @@ function displayData(type){
 			
 			var datasets = [
 								{
-				 					label: 'ppm CO2 concentration',
+				 					label: 'ppm CO2 concentration /10',
 									data: co2Data,
 									backgroundColor: 'rgba(75, 192, 192, 0.2)',
 									borderColor: 'rgba(75, 192, 192, 0.6)',

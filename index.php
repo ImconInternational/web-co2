@@ -1,10 +1,11 @@
 <!DOCTYPE html>
 	<html>
 		<head>
-			<title>CO2 Trends - OVG - Ecole du Cinquantenaire</title>
+			<title>CO2 Trends - One Planet Education Network - OVG - Ecole du Cinquantenaire</title>
 			<style text="text/css">
 				@import url("bootstrap/css/bootstrap.min.css");
 			</style>
+			<meta name="viewport" content="initial-scale=1, maximum-scale=1, user-scalable=no, width=device-width"/>
 		</head>
 		
 		<body>
@@ -25,7 +26,7 @@
 							<div class="collapse navbar-collapse" id="titre-collapse">
 								<ul class="nav navbar-nav navbar-right">
 									<ul class="nav navbar-nav navbar-right">
-										<li><a href="http://www.imconintl.com" class="dropdown-toggle" data-toggle="dropdown"> Go to Imcon website </a></li>
+										<li><a href="http://www.imconintl.com" target="_blank"> Go to Imcon website </a></li>
 									</ul>
 								</ul>
 							</div>
@@ -51,16 +52,16 @@
 				<div class="col-md-2">
 					Display by: <br/><br/>
 					<select class="form-control" id="intervalPeriod">
-												               		  <option value="hour" selected="selected">Hour</option>
+												               		  
 														              <option value="minute">Minute</option>
-														              <option value="hour">Hour</option>
+														              <option value="hour" selected="selected">Hour</option>
 														              <option value="day">Day</option>
 														              <option value="month">Month</option>
 														              <option value="year">Year</option>
 												               	</select><br/>
 					
-					<button class="form-control" id="ligneDisplay">Ligne</button><br/>
-					<button class="form-control" id="histogrammeDisplay">Histogramme</button><br/>
+					<button class="form-control" id="ligneDisplay">Line</button><br/>
+					<button class="form-control" id="histogrammeDisplay">Bars</button><br/>
 					<button class="form-control" id="sectorDisplay">Sector</button><br/>
 					
 					<img style="width:130px;" src="img/34ff79_2e22d7c29d56476081692588623794d5.png_srz_856_209_85_22_0.50_1.20_0.00_.png"/><br/><br/>
@@ -70,8 +71,10 @@
 					
 				</div>
 			</div>
+			
+			<div style="margin-top:5cm;margin-bottom:7cm;" class="alert alert-warning">We divided the CO2 ppm concentration to scale its values to Humidity and Temperature.<br/><br/>Please rotate your mobile phone to get good preview.</div>
 			<footer class="navbar navbar-fixed-bottom text-center">
-				<a href="http://www.oneplaneteducation.com">One Education Network</a> | 
+				<a href="http://www.oneplaneteducation.com">One Planet Education Network</a> | 
 				<a href="http://www.imconintl.com">Imcon International</a>
 			</footer>
 		</div>
