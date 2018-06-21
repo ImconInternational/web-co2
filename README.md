@@ -10,5 +10,5 @@ after this library has got data from The Things Network platform.
 This is one of the network protocols presented by Dr Lee McKnight, Timothy Kelly and George Newman at 
 Internet Society conference, the #radnets17 in the workshop on the Internet Backpack.
 
-[![Youtube Image](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://drive.google.com/file/d/152pIF6enLsmup5m-CEBVi22F2wRowIuH/view)
+[![Youtube Image](img/workshop-img.png)](https://drive.google.com/file/d/152pIF6enLsmup5m-CEBVi22F2wRowIuH/view)
 
