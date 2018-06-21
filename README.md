@@ -7,8 +7,8 @@ This can also be connect to other services like Microsoft Azure for data storage
 after this library has got data from The Things Network platform.
 
 ## Internet Backpack Workshop
-This is one of the network protocols [(presented by Dr Lee McKnight, Timothy Kelly and George Newman at 
-Internet Society conference, the #radnets17)(https://drive.google.com/file/d/152pIF6enLsmup5m-CEBVi22F2wRowIuH/view)] in the workshop on the Internet Backpack.
+This is one of the network protocols [presented by Dr Lee McKnight, Timothy Kelly and George Newman at 
+Internet Society conference, the #radnets17](https://drive.google.com/file/d/152pIF6enLsmup5m-CEBVi22F2wRowIuH/view) in the workshop on the Internet Backpack.
 
 [![Youtube Image](img/workshop-img.png)](https://drive.google.com/file/d/152pIF6enLsmup5m-CEBVi22F2wRowIuH/view)
 
